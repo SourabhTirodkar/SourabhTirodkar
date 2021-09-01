@@ -7,26 +7,28 @@
 Glad you are here: ![visitors](https://visitor-badge.glitch.me/badge?page_id=SourabhTirodkar)
 &nbsp;
 
+------------------------
+### <font color = green><u>Background:</font></u><i>
+ * #### <i>Research Bioinformatician 1 Machine Learning at Cedars Sinai Medical Center
+ * #### <i>Graduate Student (M.S) from University of Southern California (USC) </i>
+--------------
 
- * <i>Research Bioinformatician 1 Machine Learning at Cedars Sinai Medical Center
- * <i>Graduate Student (M.S) from University of Southern California (USC) </i>
+### <font color = green><u>Education:</font></u></i>
+University of Southern California (USC), Viterbi School of Engineering<br>
+M.S in Electrical and Computer Engineering<br>
+Minor- Machine Learning, Computer Vision, Deep Learning<br>
+<br>
+<u>Courses undertaken:</u>
+1. INF552 (DSCI552) - Machine Learning for Data Science
+2. EE599 - Deep Learning
+3. CSCI677 - Advanced Computer Vision
+3. EE559- Mathematical Pattern Recognition
+4. EE569 - Digital Image Processing
+5. EE503- Probability and Statistics
+6. EE510 - Linear Algebra
+------
 
-### University of Southern California (USC), Viterbi School of Engineering <br></h2>
-#### M.S in Electrical and Computer Engineering <br>
-#### Minor- Machine Learning, Computer Vision, Deep Learning</h3>
+
 <!--
 **SourabhTirodkar/SourabhTirodkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-&nbsp;
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
