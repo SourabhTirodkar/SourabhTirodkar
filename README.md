@@ -1,10 +1,13 @@
+![](Untitled.png)
+
 ## Hi there, I'm <B><i><font color = lightblue>Sourabh Tirodkar</font></b></i> 👋
 
-
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sourabhtirodkar/)
+
+📋 [Portfolio](https://sites.google.com/usc.edu/sourabhtirodkar/)
 &nbsp;
 
-Glad you are here: ![visitors](https://visitor-badge.glitch.me/badge?page_id=SourabhTirodkar)
+Glad you are here: ![visitors](https://visitor-badge.glitch.me/badge?page_id=SourabhTirodkar.SourabhTirodkar)
 &nbsp;
 
 ------------------------
@@ -16,8 +19,7 @@ Glad you are here: ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sou
 ### <font color = green><u>Education:</font></u></i>
 University of Southern California (USC), Viterbi School of Engineering<br>
 
-![USC]("download2.jpg")
-
+![](download2.jpg)
 M.S in Electrical and Computer Engineering<br>
 Minor- Machine Learning, Computer Vision, Deep Learning<br>
 <br>
