@@ -15,6 +15,9 @@ Glad you are here: ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sou
 
 ### <font color = green><u>Education:</font></u></i>
 University of Southern California (USC), Viterbi School of Engineering<br>
+
+![USC]("download2.jpg")
+
 M.S in Electrical and Computer Engineering<br>
 Minor- Machine Learning, Computer Vision, Deep Learning<br>
 <br>
